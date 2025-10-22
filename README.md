@@ -1,4 +1,6 @@
-<h2 align="center">Insights and Challenges in the ARM Assembly Programming Assignment</h2>
+<p align="justify">Included in this document are the insights and challenges I gained and encountered in doing each problems. Below are the links for the video demonstrations and explanations for each problem.
+
+<h2 align="center">Insights and Challenges</h2>
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Working through the ARM assembly problems—from factorial calculation to finding the maximum value in an array—offered valuable insight into how low-level programming directly manipulates registers and memory. Each task deepened my understanding of data movement, looping, and logical operations at the instruction level.
@@ -23,7 +25,7 @@
 <h3 align="center">🎥 My Video Demonstrations</h3>
 
 <p align="justify">
-Below are the links to my recorded demonstrations for each ARM Assembly problem. Click on the titles once the links are updated.
+Below are the links to my recorded demonstrations for each ARM Assembly problem.
 </p>
 
 <ul>
